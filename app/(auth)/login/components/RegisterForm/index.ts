@@ -1,1 +1,1 @@
-import * from './RegisterForm';
+import * as RegisterForm from './RegisterForm';

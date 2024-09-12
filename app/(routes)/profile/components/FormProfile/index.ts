@@ -1,1 +1,1 @@
-import * from './FormProfile'
+import * as FormProfile  from './FormProfile'

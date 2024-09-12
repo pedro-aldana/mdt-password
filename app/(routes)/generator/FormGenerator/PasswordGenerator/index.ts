@@ -1,1 +1,1 @@
-import * from './PasswordGenerator'
+import * as PasswordGenerator  from './PasswordGenerator'

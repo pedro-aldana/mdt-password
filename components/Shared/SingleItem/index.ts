@@ -1,1 +1,1 @@
-import * from './SingleItem'
+import * as SingleItem  from './SingleItem'

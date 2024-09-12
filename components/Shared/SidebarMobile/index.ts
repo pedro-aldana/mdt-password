@@ -1,1 +1,1 @@
-export * from './SidebarMobile'
+export * as SidebarMobile from './SidebarMobile'

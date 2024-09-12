@@ -1,1 +1,1 @@
-export * from './TabsForms'
+export * as TabsForms from './TabsForms'

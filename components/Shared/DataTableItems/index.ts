@@ -1,1 +1,1 @@
-import * from './DataTableItems'
+import * as DataTableItems from './DataTableItems'

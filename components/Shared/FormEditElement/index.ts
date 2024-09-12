@@ -1,1 +1,1 @@
-import * from './FormEditElement'
+import * as FormEditElement  from './FormEditElement'

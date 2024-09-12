@@ -1,1 +1,1 @@
-import * from './RepeatedPasswordChart'
+import * as RepeatedPasswordChart from './RepeatedPasswordChart'

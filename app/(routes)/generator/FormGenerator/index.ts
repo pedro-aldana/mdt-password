@@ -1,1 +1,1 @@
-import * from './FormGenerator'
+import * as FormGenerator  from './FormGenerator'

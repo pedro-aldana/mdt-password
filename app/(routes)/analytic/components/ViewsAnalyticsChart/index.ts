@@ -1,1 +1,1 @@
-import * from './ViewsAnalyticsChart'
+import * as ViewsAnalyticsChart  from './ViewsAnalyticsChart'

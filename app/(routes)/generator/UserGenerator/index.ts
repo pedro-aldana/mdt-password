@@ -1,1 +1,1 @@
-import * from './UserGenerator'
+import * as UserGenerator  from './UserGenerator'

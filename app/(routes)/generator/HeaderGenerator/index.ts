@@ -1,1 +1,1 @@
-import * from './HeaderGenerator'
+import * as HeaderGenerator  from './HeaderGenerator'

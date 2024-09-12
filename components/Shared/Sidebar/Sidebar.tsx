@@ -1,4 +1,5 @@
-import { Logo } from "../Logo";
+
+import Link from "next/link";
 import SidebarRoutes from "../SidebarRoutes/SidebarRoutes";
 
 
@@ -8,7 +9,11 @@ export default function Sidebar() {
     <>
 
         <div className="py-6">
-            <Logo/>
+        <Link href="/">
+            <h1 className="text-xl font-bold">
+                MDTPassword
+            </h1>
+        </Link>
         </div>
         <SidebarRoutes/>
     
