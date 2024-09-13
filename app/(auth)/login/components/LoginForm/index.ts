@@ -1,1 +1,1 @@
-import * as LoginForm  from './LoginForm'
+import * as LoginForm from './LoginForm'

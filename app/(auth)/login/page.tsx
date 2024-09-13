@@ -1,7 +1,8 @@
 import { getServerSession } from "next-auth";
 import { ImageAuth } from "./components/ImageAuth";
-import { TabsForms } from "./components/TabsForms";
+
 import { redirect } from "next/navigation";
+import { TabsForms } from "./components/TabsForms/TabsForms";
 
 
 export default async function LoginPage() {
