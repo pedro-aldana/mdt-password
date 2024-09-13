@@ -8,6 +8,7 @@ const poppins = Poppins({ subsets: ["latin"], weight: ["200","400","500","800"] 
 export const metadata: Metadata = {
   title: "<MDTPassword/>",
   description: "Creating a password manager",
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
